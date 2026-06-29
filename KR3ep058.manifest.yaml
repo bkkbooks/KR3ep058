@@ -1,0 +1,1384 @@
+canonical_identifier: bkk:krp/KR3ep058/v1
+canonical_location: https://kanripo.org/bkk/KR3ep058/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 臨症經應錄
+  identifiers:
+    krp: KR3ep058
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep058.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep058_000.yaml, hash: 'sha256:0e528e47b39192c5cc42e84183626e2847f8928ce59e9cb4092fcfa6be91d9ab'}
+  - {seq: 1, filename: KR3ep058_001.yaml, hash: 'sha256:87a9e812f70125682be901103a556c1b67253a602b9faf610bc7f8d2c3adc7e0'}
+  - {seq: 2, filename: KR3ep058_002.yaml, hash: 'sha256:d7768c29b060daacb945d699f361a5c3b600d096851c925dfb97d0ee228e5eed'}
+  - {seq: 3, filename: KR3ep058_003.yaml, hash: 'sha256:0372b510785a6dc989807016ed12a812a069b039dc021c96170ba0aa28607c37'}
+  - {seq: 4, filename: KR3ep058_004.yaml, hash: 'sha256:df40c20a29e55cdcea43cf65ee551633c5ca233613afb9713df2f58928795be8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep058_000.markers.yaml, hash: 'sha256:143c7a105979790412d307d9c6647f219f2d00ff6bbb66b73587bb14edf76905'}
+  - {seq: 1, role: markers, filename: assets/KR3ep058_001.markers.yaml, hash: 'sha256:8e63063b92fbb7ef492f6b5884eb888c96606efd8444e86e9813396df626e57d'}
+  - {seq: 2, role: markers, filename: assets/KR3ep058_002.markers.yaml, hash: 'sha256:c44748fb79e456a38b28b742057c6d630fa539851399c5b3883d0b5e3f76a83e'}
+  - {seq: 3, role: markers, filename: assets/KR3ep058_003.markers.yaml, hash: 'sha256:a85583044a4df590e56119e3ff416060d3a4c2de6fe3f369a0d212312741e772'}
+  - {seq: 4, role: markers, filename: assets/KR3ep058_004.markers.yaml, hash: 'sha256:f577a8254f8c9405b1f404e851776e950b18f82c5b881e4c5d06d9088c296070'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep058_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 331
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep058_jc_000-d3.h1s1
+    span:
+    - body
+    - 331
+    - 1364
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7230
+  label: 卷一六氣雜感門
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d2
+    span:
+    - body
+    - 7
+    - 1149
+  label: 一春溫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d3
+    span:
+    - body
+    - 1149
+    - 1418
+  label: 二中風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d4
+    span:
+    - body
+    - 1418
+    - 1584
+  label: 三類中
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d5
+    span:
+    - body
+    - 1584
+    - 1768
+  label: 四厲風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d6
+    span:
+    - body
+    - 1768
+    - 1864
+  label: 五破傷風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d7
+    span:
+    - body
+    - 1864
+    - 1982
+  label: 六行痹
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d8
+    span:
+    - body
+    - 1982
+    - 2094
+  label: 七木虛生風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d9
+    span:
+    - body
+    - 2094
+    - 2331
+  label: 八血燥生風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d10
+    span:
+    - body
+    - 2331
+    - 2432
+  label: 九風引肝陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d11
+    span:
+    - body
+    - 2432
+    - 2486
+  label: 十胃腑風火
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d12
+    span:
+    - body
+    - 2486
+    - 2673
+  label: 十一發腫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d13
+    span:
+    - body
+    - 2673
+    - 2727
+  label: 十二感寒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d14
+    span:
+    - body
+    - 2727
+    - 2793
+  label: 十三冒風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d15
+    span:
+    - body
+    - 2793
+    - 2939
+  label: 十四濕毒成瘡
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d16
+    span:
+    - body
+    - 2939
+    - 3084
+  label: 十五濕參陽位
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d17
+    span:
+    - body
+    - 3084
+    - 3185
+  label: 十六暑感化瘧
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d18
+    span:
+    - body
+    - 3185
+    - 3672
+  label: 十七痎瘧
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d19
+    span:
+    - body
+    - 3672
+    - 3778
+  label: 十八冬令伏邪
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d20
+    span:
+    - body
+    - 3778
+    - 3845
+  label: 十九內傷冬溫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d21
+    span:
+    - body
+    - 3845
+    - 3987
+  label: 二十伏邪晚發
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d22
+    span:
+    - body
+    - 3987
+    - 4090
+  label: 二十一病瘧不分
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d23
+    span:
+    - body
+    - 4090
+    - 4192
+  label: 二十二斑疹九天
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d24
+    span:
+    - body
+    - 4192
+    - 4310
+  label: 二十三病後
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d25
+    span:
+    - body
+    - 4310
+    - 4966
+  label: 二十四濕溫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d26
+    span:
+    - body
+    - 4966
+    - 5052
+  label: 二十五霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d27
+    span:
+    - body
+    - 5052
+    - 5501
+  label: 二十六痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d28
+    span:
+    - body
+    - 5501
+    - 5858
+  label: 二十七痧
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d29
+    span:
+    - body
+    - 5858
+    - 5948
+  label: 二十八痿
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d30
+    span:
+    - body
+    - 5948
+    - 6081
+  label: 二十九鼻瘜
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep058_jc_001-d4d31
+    span:
+    - body
+    - 6081
+    - 7230
+  label: 三十牙宣
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8953
+  label: 卷二七情內傷門
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d2
+    span:
+    - body
+    - 7
+    - 803
+  label: 一喘
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d3
+    span:
+    - body
+    - 803
+    - 941
+  label: 二痰飲
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d4
+    span:
+    - body
+    - 941
+    - 1032
+  label: 三喘滿
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d5
+    span:
+    - body
+    - 1032
+    - 1125
+  label: 四滿病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d6
+    span:
+    - body
+    - 1125
+    - 1460
+  label: 五肺痹
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d7
+    span:
+    - body
+    - 1460
+    - 1770
+  label: 六肝旺肺虛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d8
+    span:
+    - body
+    - 1770
+    - 2471
+  label: 七噎膈
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d9
+    span:
+    - body
+    - 2471
+    - 2667
+  label: 八反胃
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d10
+    span:
+    - body
+    - 2667
+    - 2833
+  label: 九厥陰氣阻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d11
+    span:
+    - body
+    - 2833
+    - 2922
+  label: 十木侮土
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d12
+    span:
+    - body
+    - 2922
+    - 2994
+  label: 十一肝氣痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d13
+    span:
+    - body
+    - 2994
+    - 3181
+  label: 十二胃脘痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d14
+    span:
+    - body
+    - 3181
+    - 4425
+  label: 十三肝脾心腎傷
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d15
+    span:
+    - body
+    - 4425
+    - 4507
+  label: 十四肝腎兩傷
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d16
+    span:
+    - body
+    - 4507
+    - 4923
+  label: 十五水不養肝
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d17
+    span:
+    - body
+    - 4923
+    - 5038
+  label: 十六肝氣納氣
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d18
+    span:
+    - body
+    - 5038
+    - 5193
+  label: 十七腎火咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d19
+    span:
+    - body
+    - 5193
+    - 5386
+  label: 十八真陰不足
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d20
+    span:
+    - body
+    - 5386
+    - 5490
+  label: 二十肝膽火升
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d21
+    span:
+    - body
+    - 5490
+    - 5645
+  label: 二十一目病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d22
+    span:
+    - body
+    - 5645
+    - 5734
+  label: 二十二鼻淵
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d23
+    span:
+    - body
+    - 5734
+    - 5858
+  label: 二十三火剋金
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d24
+    span:
+    - body
+    - 5858
+    - 6620
+  label: 二十四吐血
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d25
+    span:
+    - body
+    - 6620
+    - 6719
+  label: 二十五木舌腫痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d26
+    span:
+    - body
+    - 6719
+    - 6793
+  label: 二十六骨痹
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d27
+    span:
+    - body
+    - 6793
+    - 7081
+  label: 二十七遺精
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d28
+    span:
+    - body
+    - 7081
+    - 7210
+  label: 二十八陽關穴冷
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d29
+    span:
+    - body
+    - 7210
+    - 7375
+  label: 二十九脾虛發腫
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d30
+    span:
+    - body
+    - 7375
+    - 7493
+  label: 三十溺痛滴瀝
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d31
+    span:
+    - body
+    - 7493
+    - 7554
+  label: 三十一兩肋痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d32
+    span:
+    - body
+    - 7554
+    - 7642
+  label: 三十二三陰不足
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d33
+    span:
+    - body
+    - 7642
+    - 7785
+  label: 三十三下焦嘔吐
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep058_jc_002-d5d34
+    span:
+    - body
+    - 7785
+    - 8953
+  label: 三十四濕
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5862
+  label: 卷三幼童痘疹門
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d2
+    span:
+    - body
+    - 7
+    - 157
+  label: 一童損
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d3
+    span:
+    - body
+    - 157
+    - 259
+  label: 二鼻血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d4
+    span:
+    - body
+    - 259
+    - 350
+  label: 三龜胸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d5
+    span:
+    - body
+    - 350
+    - 426
+  label: 四龜背
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d6
+    span:
+    - body
+    - 426
+    - 480
+  label: 五口糜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d7
+    span:
+    - body
+    - 480
+    - 586
+  label: 六慢脾驚
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d8
+    span:
+    - body
+    - 586
+    - 2232
+  label: 七痘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d9
+    span:
+    - body
+    - 2232
+    - 2385
+  label: 八四朝漿勢未行
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d10
+    span:
+    - body
+    - 2385
+    - 2509
+  label: 九五朝火不鎔漿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d11
+    span:
+    - body
+    - 2509
+    - 2705
+  label: 十種痘九朝毒發右肢
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d12
+    span:
+    - body
+    - 2705
+    - 2893
+  label: 十一種痘後
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d13
+    span:
+    - body
+    - 2893
+    - 3024
+  label: 十二受暑停食
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d14
+    span:
+    - body
+    - 3024
+    - 3244
+  label: 十三疹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d15
+    span:
+    - body
+    - 3244
+    - 3399
+  label: 十四天吼
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d16
+    span:
+    - body
+    - 3399
+    - 3518
+  label: 十五纏喉風
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d17
+    span:
+    - body
+    - 3518
+    - 3686
+  label: 十六閉痘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d18
+    span:
+    - body
+    - 3686
+    - 3798
+  label: 十七慢驚
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d19
+    span:
+    - body
+    - 3798
+    - 3904
+  label: 十八赤遊丹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d20
+    span:
+    - body
+    - 3904
+    - 4105
+  label: 十九雲頭疹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d21
+    span:
+    - body
+    - 4105
+    - 4173
+  label: 二十疹回風溫郁遏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d22
+    span:
+    - body
+    - 4173
+    - 4305
+  label: 二十一六朝癟塌無漿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d23
+    span:
+    - body
+    - 4305
+    - 4402
+  label: 二十二痘後便血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep058_jc_003-d6d24
+    span:
+    - body
+    - 4402
+    - 5862
+  label: 二十三復感下利
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 13601
+  label: 卷四婦女疾病門
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d2
+    span:
+    - body
+    - 7
+    - 224
+  label: 一經閉
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d3
+    span:
+    - body
+    - 224
+    - 339
+  label: 二天癸未至
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d4
+    span:
+    - body
+    - 339
+    - 377
+  label: 三小便不禁
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d5
+    span:
+    - body
+    - 377
+    - 452
+  label: 四漏經
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d6
+    span:
+    - body
+    - 452
+    - 542
+  label: 五血崩
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d7
+    span:
+    - body
+    - 542
+    - 648
+  label: 六衝任不調
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d8
+    span:
+    - body
+    - 648
+    - 733
+  label: 七濕熱凝瘀
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d9
+    span:
+    - body
+    - 733
+    - 919
+  label: 八心肺腎虛
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d10
+    span:
+    - body
+    - 919
+    - 1330
+  label: 九脾肺並病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d11
+    span:
+    - body
+    - 1330
+    - 1429
+  label: 十氣蒙胎
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d12
+    span:
+    - body
+    - 1429
+    - 1530
+  label: 十一血瘕
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d13
+    span:
+    - body
+    - 1530
+    - 1587
+  label: 十二經衍致病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d14
+    span:
+    - body
+    - 1587
+    - 1686
+  label: 十三肺腎不足
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d15
+    span:
+    - body
+    - 1686
+    - 1795
+  label: 十四癲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d16
+    span:
+    - body
+    - 1795
+    - 2059
+  label: 十五癇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d17
+    span:
+    - body
+    - 2059
+    - 2145
+  label: 十六肝火沖肺
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d18
+    span:
+    - body
+    - 2145
+    - 3132
+  label: 十七子癇風
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d19
+    span:
+    - body
+    - 3132
+    - 3235
+  label: 十八妊娠下痢
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d20
+    span:
+    - body
+    - 3235
+    - 3398
+  label: 十九產後類中
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d21
+    span:
+    - body
+    - 3398
+    - 3571
+  label: 二十產後寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d22
+    span:
+    - body
+    - 3571
+    - 3642
+  label: 二十一新產後
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d23
+    span:
+    - body
+    - 3642
+    - 3888
+  label: 二十二半產後
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d24
+    span:
+    - body
+    - 3888
+    - 4097
+  label: 二十三胎墮
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d25
+    span:
+    - body
+    - 4097
+    - 4341
+  label: 二十四梅核氣
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d26
+    span:
+    - body
+    - 4341
+    - 4449
+  label: 二十五脅痛
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d27
+    span:
+    - body
+    - 4449
+    - 4564
+  label: 二十六蓐勞
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d28
+    span:
+    - body
+    - 4564
+    - 4694
+  label: 二十七黃疸
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d29
+    span:
+    - body
+    - 4694
+    - 4867
+  label: 二十八產後氣粗
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d30
+    span:
+    - body
+    - 4867
+    - 5150
+  label: 二十九休息痢
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d31
+    span:
+    - body
+    - 5150
+    - 5266
+  label: 三十中暑
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d32
+    span:
+    - body
+    - 5266
+    - 5423
+  label: 三十一產後濕溫
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d33
+    span:
+    - body
+    - 5423
+    - 5526
+  label: 三十二瘧後懷孕
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d34
+    span:
+    - body
+    - 5526
+    - 5623
+  label: 三十三帶下
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d35
+    span:
+    - body
+    - 5623
+    - 5704
+  label: 三十四肉苛
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d36
+    span:
+    - body
+    - 5704
+    - 5848
+  label: 三十五居經眩暈
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d37
+    span:
+    - body
+    - 5848
+    - 5952
+  label: 三十六便血
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d38
+    span:
+    - body
+    - 5952
+    - 6019
+  label: 三十七產後便難
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d39
+    span:
+    - body
+    - 6019
+    - 6090
+  label: 三十八胞中濕熱
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d40
+    span:
+    - body
+    - 6090
+    - 6187
+  label: 三十九悸動
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d41
+    span:
+    - body
+    - 6187
+    - 6318
+  label: 四十血不歸經
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d42
+    span:
+    - body
+    - 6318
+    - 6380
+  label: 四十一經病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d43
+    span:
+    - body
+    - 6380
+    - 7660
+  label: 四十二血癥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep058_jc_004-d7d44
+    span:
+    - body
+    - 7660
+    - 13601
+  label: 四十三集方
+  type: section
+  level: 2
+hash: sha256:3935f7756fcdc048bb43da0ec8c34f10d17259c6affb7655ee51239f265dfc25
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
